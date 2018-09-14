@@ -1,10 +1,10 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * * * *
-*													 *
-*	Alunos : Rafael Escaleira e Gabriel Spontoni	 *
-*													 *
-*	Instruções para Compilar:						 *
-*	gcc simmips.c -Wall -std=c99					 *
-*													 *
+*						     *
+*	Alunos : Rafael Escaleira e Gabriel Spontoni *
+*						     *
+*	Instruções para Compilar:		     *
+*	gcc simmips.c -Wall -std=c99		     *
+*						     *
 * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
 #include <stdio.h>
